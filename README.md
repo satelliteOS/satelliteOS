@@ -1,2 +1,2 @@
-# GakseiOS
-学生によって作られたOSである。
+# satelliteOSとは
+PC好きの学生によって開発されたOSであり、ubuntuの派生osである。
