@@ -1,4 +1,5 @@
 # satelliteOSとは
+![satellite OS](https://github.com/GakseiOS/GakseiOS/assets/135989741/356a3874-ae77-4eaa-8707-cfc3382d133b)
 PC好きの学生によって開発されたOSであり、
 ubuntuの派生osである。
 
