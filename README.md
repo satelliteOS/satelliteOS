@@ -1,3 +1,5 @@
+<span style="color:red;">このOSは開発中で、現在ファイルは公開されていません</span>
+
 # satelliteOSとは
 
 ![satellite OS](https://github.com/GakseiOS/GakseiOS/assets/135989741/356a3874-ae77-4eaa-8707-cfc3382d133b)
