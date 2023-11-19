@@ -1,4 +1,5 @@
 <span style="color:red;">このOSは開発中で、現在ファイルは公開されていません</span>
+
 [English](https://github.com/satelliteOS/satelliteOS/blob/main/English.md)
 
 # satelliteOSとは
