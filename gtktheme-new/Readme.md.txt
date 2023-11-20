@@ -1,0 +1,1 @@
+This is a derivative of the Orchis theme by vinceliuice. I would like to express my gratitude and respect. There are no guarantees regarding the use of this theme.This theme is using GPL 3.0 license.
