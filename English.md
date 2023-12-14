@@ -16,4 +16,4 @@ Developed by computer enthusiasts, satelliteOS is a derivative of Ubuntu.
 
 Join us at this URL and become a developer:
 
-[Line Open Chat](https://line.me/ti/g2/VhyFi74iOW2_C8cyeg5rTBST8j-2IhwZRlr5ww?utm_source=invitation&utm_medium=link_copy&utm_campaign=default)
+[Discord Community](https://discord.com/invite/eTG8qRduyQ)
