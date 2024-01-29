@@ -20,6 +20,3 @@ PC好きの学生によって開発されたOSであり、ubuntuの派生osで�
 このURLに参加し、開発者になりましょう
 
 [LINEオープンチャット](https://line.me/ti/g2/VhyFi74iOW2_C8cyeg5rTBST8j-2IhwZRlr5ww?utm_source=invitation&utm_medium=link_copy&utm_campaign=default)
-
-# 写真(イメージです)
-![satellite OS]([https://github.com/GakseiOS/GakseiOS/assets/135989741/356a3874-ae77-4eaa-8707-cfc3382d133b](https://github.com/satelliteOS/satelliteOS/blob/main/screenshot/VirtualBox_satelliteOS_29_01_2024_14_14_54.png?raw=true)https://github.com/satelliteOS/satelliteOS/blob/main/screenshot/VirtualBox_satelliteOS_29_01_2024_14_14_54.png?raw=true)
