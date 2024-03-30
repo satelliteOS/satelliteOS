@@ -11,9 +11,3 @@ Developed by computer enthusiasts, satelliteOS is a derivative of Ubuntu.
 1. A desktop designed to assist programmers.
 2. A sophisticated design inspired by the universe.
 3. A must-see for Windows users. The shortcut keys are the same as in Windows.
-
-# How to Contribute to Development
-
-Join us at this URL and become a developer:
-
-[Discord Community](https://discord.com/invite/eTG8qRduyQ)
