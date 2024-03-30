@@ -15,8 +15,3 @@ PC好きの学生によって開発されたOSであり、ubuntuの派生osで�
 2.宇宙をモデルにした洗練されたデザイン
 
 3.Windowsユーザー必見。ショートカットキーは、windowsと同じ。
-# 開発に参加するには
-
-このURLに参加し、開発者になりましょう
-
-[LINEオープンチャット](https://line.me/ti/g2/VhyFi74iOW2_C8cyeg5rTBST8j-2IhwZRlr5ww?utm_source=invitation&utm_medium=link_copy&utm_campaign=default)
